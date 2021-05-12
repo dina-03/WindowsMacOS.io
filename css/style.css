@@ -15,7 +15,7 @@ body {
     margin: 0 auto;
     padding: 0;
     max-width: 1200px;
-    min-width: 800px;
+    min-width: 900px;
 }
 
 main {
@@ -54,6 +54,7 @@ main {
     height: auto;
     vertical-align: middle;
     margin: 15px 10px;
+    text-align: center;
 
 }
 
@@ -116,6 +117,7 @@ main {
 
 header {
     width: 100%;
+    min-width: 900px;
     height: 250px;
     background: url("./../img/banner-Win-Mac.jpg");
     background-size: cover;
@@ -185,7 +187,7 @@ nav a:hover {
     justify-content: space-between;
     float: left;
     background: #dff6fd;
-    margin: 24px 20px 25px 0;
+    margin: 24px 10px 25px 0;
 }
 
 .content h1 {
